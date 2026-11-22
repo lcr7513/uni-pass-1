@@ -1,0 +1,6 @@
+{
+  "name": "유니패스 면접랩 — 대학입시 면접 강의 및 AI 모의면접 코칭 플랫폼",
+  "description": "최신 대입 면접 트렌드 강의, 실시간 음성·비언어 분석 모의면접 녹화, AI 꼬리질문 시뮬레이션, 기출 DB 및 합격 가능성 예측 리포트를 제공하는 입시 면접 교육 플랫폼",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
